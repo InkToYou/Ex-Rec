@@ -1,0 +1,2 @@
+UserID = int
+ItemID = int
