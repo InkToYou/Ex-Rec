@@ -1,6 +1,6 @@
 # Ex-Rec
 
-Experimental tools for recommender systems implemented by Python
+Experimental tools for recommender systems implemented in Python
 
 ## Usage
 
